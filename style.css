@@ -6,13 +6,24 @@ body {
 	background:url(mountain.jpg) no-repeat;
 	}
 h1 {
-	margin:0px 0px 15px 0px;
+	font-family: 'Quicksand', sans-serif;
+	margin:20px 0px 15px 20px;
 	padding:0px;
-	font-size:28px;
+	font-size:48px;
+	line-height:48px;
+	font-weight:900;
+	text-shadow: 0.1em 0.1em 0.1em black;
+	}
+h2 {
+	font-family: 'Quicksand', sans-serif;
+	margin:0px 0px 15px 45px;
+	padding:0px;
+	font-size:18px;
 	line-height:28px;
 	font-weight:900;
-	color:#ccc;
+	text-shadow: 0.1em 0.1em 0.1em black;
 	}
+
 p {
 	font:11px/20px verdana, arial, helvetica, sans-serif;
 	margin:0px 0px 16px 0px;
